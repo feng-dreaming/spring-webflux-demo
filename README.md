@@ -1,4 +1,4 @@
 # spring-webflux-demo
 study spring5
 
-先安装好MongoDB，再创建表users(username,password,fname,lname)
+鍏堝畨瑁呭ソMongoDB锛屽啀鍒涘缓琛╱sers(username,password,fname,lname)
